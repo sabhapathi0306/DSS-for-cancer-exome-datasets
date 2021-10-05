@@ -2,7 +2,7 @@
 decision support system for cancer exome datasets, which helps to predict the percentage probability of cancer type for particular features,through which
 one can under go personized treatements based on persentage of prediction and early dignosis of cancer also possible
 
-# Important links
+## Important links
 1. NCBI SRA : https://www.ncbi.nlm.nih.gov/sra
 2. SCIKIT LEARN : https://scikit-learn.org/stable/supervised_learning.html
 3. SRA TOOLKIT : https://trace.ncbi.nlm.nih.gov/Traces/sra/sra.cgi?view=toolkit_doc
