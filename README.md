@@ -6,6 +6,8 @@ one can under go personized treatements based on persentage of prediction and ea
 The results or prediction are based on previosly trained data NOT Final dignosis result but based on this prediction method helps on can under go early treatments for cancer
 
 # STEPS
+![image](https://user-images.githubusercontent.com/70704151/136044447-e240fb23-d7d9-4645-be07-ee863103bfe4.png)
+
 
 
 
