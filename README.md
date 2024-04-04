@@ -1,6 +1,6 @@
 # DSS-for-cancer-exome-datasets
 decision support system for cancer exome datasets, which helps to predict the percentage probability of cancer type for particular features,through which
-one can undergo personalized treatments based on percentage of prediction and early diagnosis of cancer is also possible.
+one can undergo personalized treatments based on percentage of prediction and early diagnosis of cancer is also possible..
 
 ## Important links
 1. NCBI SRA : https://www.ncbi.nlm.nih.gov/sra
